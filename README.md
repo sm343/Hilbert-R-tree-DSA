@@ -1,6 +1,6 @@
 # DSA-Assignment
 
-This is the code for a Hilbert R Tree implentation from the research paper of Antonin Guttmann in C programming language. Here, we are using 2D rectangles which are horizontal and vertical.<br />
+This is the code for a Hilbert R Tree implentation from the research paper of Antonin Guttmann in C programming language. Here, 2D rectangles are used which are horizontal and vertical.<br />
 
 
 ## Assumptions
